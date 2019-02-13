@@ -11,4 +11,4 @@ channelMapping = {"96": "ViuTV6",
                       }    
 ownerChannelMapping = {}
 for channelNo, info in channelMapping.items():
-    ownerChannelMapping[info] = channelNo
+    ownerChannelMapping[info] = channelNoasfaf
